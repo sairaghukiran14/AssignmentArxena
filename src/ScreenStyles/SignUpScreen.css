@@ -1,0 +1,10 @@
+.signupscreen_page {
+  height: 100vh;
+}
+select{
+  width: 100%;
+  text-align: center;
+}
+select option{
+   width: 100%;
+}

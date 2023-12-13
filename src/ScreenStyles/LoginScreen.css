@@ -1,0 +1,8 @@
+.loginscreen_page {
+  height: 100vh;
+}
+
+.form {
+ box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
